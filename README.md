@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug33" alt="Yogesh's Top Langs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshhrathod" alt="Yogesh's Top Langs">
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogi33&&show_icons=true" alt="Yogesh's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshhrathod&&show_icons=true" alt="Yogesh's Github Stats">
 </p>
 
 <p align="center" style="color:#FD6A02">
