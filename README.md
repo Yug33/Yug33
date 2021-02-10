@@ -1,9 +1,8 @@
 ### console.log("Hello👋 World!🌏")
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yogeshhrathod&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshhrathod" /> </p>
 <hr></hr>
 <h1 align="center">I'm <span style="color:#FF9900;font-weight:800">Yogesh Rathod👦</span>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshhrathod&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshhrathod" /> </p>
 <p align="center"> 
   <samp >
     🔥 Full Stack Web Developer grinding hard to make something cool  <br>
