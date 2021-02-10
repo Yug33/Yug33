@@ -3,6 +3,7 @@
 <hr></hr>
 <h1 align="center">I'm <span style="color:#FF9900;font-weight:800">Yogesh Rathod👦</span>
 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshhrathod&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshhrathod" /> </p>
 <p align="center"> 
   <samp >
     🔥 Full Stack Web Developer grinding hard to make something cool  <br>
@@ -13,9 +14,6 @@
   </samp>
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshhrathod" alt="Yogesh's Top Langs">
-</p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshhrathod&&show_icons=true" alt="Yogesh's Github Stats">
